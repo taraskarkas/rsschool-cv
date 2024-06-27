@@ -28,5 +28,3 @@ I'm a novice frontend developer, I am 26 years old, I have been working for 5 ye
 * E-mail: boss.taras.1998@mail.ru
 * Numder: 1234567899
 * GitHub: Taraskarkas
-
->Learn and never deviate from your path
