@@ -1,3 +1,13 @@
-.foto{
-  border-radius: 20%;
+.started{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px ; 
+    color: white;
+    width: 100%;
+    }
+
+
+.long{
+    height: 0%;
 }
