@@ -1,0 +1,53 @@
+.started{
+    background-color: black;
+    display: flex;
+    font-size: 20px ; 
+    color: white;
+    width: 100%;
+    border-radius: 1ch;
+   
+    }
+
+
+.about{
+border: 1px solid rgb(112, 107, 107);
+font-size: 14px;
+background-color: rgb(112, 107, 107);
+border-radius: 1ch;
+margin: 1ch;
+}
+
+.qualities{
+border: 1px solid rgb(112, 107, 107);
+font-size: 14px;
+background-color: rgb(112, 107, 107);
+border-radius: 1ch;
+margin: 1ch;
+}
+
+.skills{
+border: 1px solid rgb(112, 107, 107);
+font-size: 14px;
+background-color: rgb(112, 107, 107);
+border-radius: 1ch;
+margin: 1ch;
+}
+
+.education{
+    border: 1px solid rgb(112, 107, 107);
+    font-size: 14px;
+    background-color: rgb(112, 107, 107);
+    border-radius: 1ch;
+    margin: 1ch;
+}
+
+.contact{
+    color: white;
+    background-color: black;
+    
+}
+
+.info{
+  display: flex;
+
+}
